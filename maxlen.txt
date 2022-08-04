@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='maxlen.txt' mode='w' encoding='cp1252'>
