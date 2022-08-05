@@ -1,3 +1,6 @@
+#Overview
+This is a keras neural network that tokenizes emails and classifies whether it thinks that they are spam or not.  So far the best accuracy I have gotten is 78%.
+
 # Files
 
 ## train.py
